@@ -8,7 +8,6 @@ covid
 cowpy
 dataclasses
 DateTime
-emoji
 fonttools
 geopy
 gitpython
