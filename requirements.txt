@@ -5,6 +5,7 @@ cairosvg
 cloudscraper
 colour
 covid
+emoji==1.7
 cowpy
 dataclasses
 DateTime
